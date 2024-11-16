@@ -1,6 +1,4 @@
-## Hi there 👋
-
-:suspect: Welcome to my GitHub profile! :godmode:
+# Welcome to my GitHub profile! 👋
 
 I lead the architectural design of high-performance microservices at a dynamic AdTech company. I'm also a passionate cybersecurity enthusiast who thrives on exploration and embraces the digital nomad lifestyle.
 
