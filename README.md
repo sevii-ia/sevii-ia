@@ -8,4 +8,4 @@
 [![Jenkins](https://img.shields.io/badge/-Jenkins-141414?style=flat&logo=jenkins)](https://www.jenkins.io/)
 [![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-141414?style=flat&logo=home-assistant)](https://www.home-assistant.io/)
 [![WordPress](https://img.shields.io/badge/-WordPress-141414?style=flat&logo=wordpress)](https://wordpress.org/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker&logoColor=2496ED)](https://www.docker.com/)
