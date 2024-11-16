@@ -1,7 +1,5 @@
 # Welcome to my GitHub profile! 👋
 
-I lead the architectural design of high-performance microservices at a dynamic AdTech company. I'm also a passionate cybersecurity enthusiast who thrives on exploration and embraces the digital nomad lifestyle.
-
 [![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-141414?style=flat&logo=jenkins)](https://www.jenkins.io/)
 [![Ansible](https://img.shields.io/badge/-Ansible-141414?style=flat&logo=ansible)](https://www.ansible.com/)
