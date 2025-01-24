@@ -13,4 +13,3 @@
 [![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![PHP](https://img.shields.io/badge/-PHP-141414?style=flat&logo=php&logoColor=white)](https://www.php.net)
-[![PHP](https://img.shields.io/badge/-PHP-141414?style=flat&logo=php&logoColor=white)](https://www.php.net)
