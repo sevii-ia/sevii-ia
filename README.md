@@ -5,11 +5,11 @@ I am a Creative Director and UI/UX Designer from Alicante, Spain, working in web
 ![](https://github-readme-stats.vercel.app/api?username=sevii-ia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sevii-ia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#№ 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### **AI / Programming**
 
-![Ai basic](https://img.shields.io/badge/AI%20basic-%23FF6F61.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+[![Ai basic](https://img.shields.io/badge/AI%20basic-%23FF6F61.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://img.shields.io/badge/AI%20basic-%23FF6F61?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23f89820.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,7 +18,7 @@ I am a Creative Director and UI/UX Designer from Alicante, Spain, working in web
 
 ### **DevOps / Cloud / Containers**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)]
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
@@ -27,13 +27,13 @@ I am a Creative Director and UI/UX Designer from Alicante, Spain, working in web
 ### **Web / Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)]
 
 
 ### **Servers / OS / Scripting**
 
 ![Linux Server](https://img.shields.io/badge/Linux%20Server-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+[![Windows Server](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)]
 ![Bash](https://img.shields.io/badge/Bash-%23000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
