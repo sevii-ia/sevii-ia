@@ -18,7 +18,7 @@ I am a Creative Director and UI/UX Designer from Alicante, Spain, working in web
 
 ### **DevOps / Cloud / Containers**
 
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)]
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
@@ -27,13 +27,13 @@ I am a Creative Director and UI/UX Designer from Alicante, Spain, working in web
 ### **Web / Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)]
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 
 
 ### **Servers / OS / Scripting**
 
 ![Linux Server](https://img.shields.io/badge/Linux%20Server-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-[![Windows Server](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)]
+![Windows Server](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
