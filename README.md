@@ -1,10 +1,6 @@
 # 💫 About Me:
 I am a Creative Director and UI/UX Designer from Alicante, Spain, working in web development and smart home systems. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. Additionally, I develop home automation systems that enhance comfort, security, and energy efficiency.<br><br>A student with four years of experience in web page development and content filling for websites, an expert in programming languages, and a smart home systems developer.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sevii-ia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sevii-ia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 # 💻 Tech Stack:
 
 ## **AI / Programming**
